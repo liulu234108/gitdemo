@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         String s="这是一个基础的git提交";
+        String a="更新项目";
     }
 }
